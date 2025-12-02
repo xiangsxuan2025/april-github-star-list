@@ -26,7 +26,7 @@ jobs:
         run: java -jar target/april-github-star-list-jar-with-dependencies.jar
       - name: Commit generated repo.md file
         run: |
-          git config --local user.email "ssss@163.com"
+          git config --local user.email "mobaijun8@163.com"
           git config --local user.name "mobaijun"
           git pull
           git add .
