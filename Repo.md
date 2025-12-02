@@ -6,7 +6,6 @@
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)	[:mag: Quick file search & app launcher for Windows with community-made plugins]
 - [Polly](https://github.com/App-vNext/Polly)	[Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.]
 - [netch](https://github.com/netchx/netch)	[A simple proxy client]
-- [Minecraftonia](https://github.com/wieslawsoltes/Minecraftonia)	[Minecraftonia is a work-in-progress voxel sandbox built with C# 13/.NET 9 and Avalonia]
 - [AspNetCore-Harsha](https://github.com/Harsha-Global/AspNetCore-Harsha)	[Asp.Net Core Ultimate Guide course | Web University by Harsha]
 - [blazor-why-did-you-render](https://github.com/mistahoward/blazor-why-did-you-render)	[Inspired by WellSoftware's why-did-you-render for React - Why Did You Render for Blazor.]
 - [ulogme](https://github.com/karpathy/ulogme)	[Automatically collect and visualize usage statistics in Ubuntu/OSX environments.]
@@ -100,3 +99,4 @@
 - [BBDown](https://github.com/nilaoda/BBDown)	[Bilibili Downloader. 一个命令行式哔哩哔哩下载器.]
 - [hotToday](https://github.com/datehoer/hotToday)	[今日热门新闻爬虫，today hot news spiders]
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio)	[Cross platform IDE and Shell]
+- [little-webby-press](https://github.com/soapdog/little-webby-press)	[A PWA to generate eBooks]
